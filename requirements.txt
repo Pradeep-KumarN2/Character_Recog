@@ -1,7 +1,11 @@
-NumPy: 1.26.4
-SciPy: 1.9.3
-sklearn: 1.6.0
-scikit-img: 0.19.3
-OpenCV    : 4.10.0
-h5py      : 3.11.0
-Plotly: 5.24.1                                                                                                                                                                                                                          Pillow: 9.4.0                                                                                                                                                                                                                        Numpy: 1.26.4                                                                                                                                                                                                      Matplotlib: 3.9.3
+numpy
+scipy
+pandas
+h5py
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+plotly
+joblib
+Pillow
