@@ -1,4 +1,4 @@
-# Character Recognition Using Traditional Machine Learning
+# Character Recognition Using Classical Machine Learning Techniques
 
 ## Overview
 
