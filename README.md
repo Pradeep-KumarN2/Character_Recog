@@ -97,6 +97,8 @@ The notebook refers to the following data locations:
 
 -   `processed/maithili_new_data/`
 -   `processed/resized_images/`
+-   `processed/sift_shaded_128/`
+-   `processed/hog_shaded_128/`
 
 Obtain and organize the required dataset locally according to the paths
 expected by the notebook before running the experiments. See
